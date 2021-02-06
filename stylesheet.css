@@ -62,6 +62,7 @@ ul {
   background-size: 200% auto;
   color: white;
   border-radius: 10px;
+  font-size: 15px;
 }
 
 #mc-embedded-subscribe:hover {
